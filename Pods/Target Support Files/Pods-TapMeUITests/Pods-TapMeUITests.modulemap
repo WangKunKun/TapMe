@@ -1,0 +1,6 @@
+framework module Pods_TapMeUITests {
+  umbrella header "Pods-TapMeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
